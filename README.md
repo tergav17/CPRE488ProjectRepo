@@ -2,4 +2,4 @@
 
 This is where all files related to our CPRE 488 projects will be. Each project will have its own directory.
 
-Test commit from Tyler's account
+Test commit from Gavin's account
